@@ -14,8 +14,8 @@ function Start () {
 }
 
 function OnGUI(){
-	GUI.Label(Rect(100,10,100,30),str);
-	GUI.Label(Rect(100,120,imageWidth,imageHeight),imageTexture);
+//	GUI.Label(Rect(100,10,100,30),str);
+//	GUI.Label(Rect(100,120,imageWidth,imageHeight),imageTexture);
 }
 
 function Update () {
